@@ -2,3 +2,4 @@ konlpy
 jpype1
 wordcloud
 pytorch
+pandas
