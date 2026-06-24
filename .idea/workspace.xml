@@ -2,17 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8c5655ae-aae6-42cd-a90d-fa568ed6bd1b" name="변경" comment="Initial commit">
-      <change afterPath="$PROJECT_DIR$/data/sample.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/sample2.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/malgun.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/malgunbd.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/malgunsl.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/circle.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/heart.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/git_command" beforeDir="false" afterPath="$PROJECT_DIR$/git_command" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -87,7 +76,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1782277486700</updated>
-      <workItem from="1782277487721" duration="10826000" />
+      <workItem from="1782277487721" duration="11418000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <option name="closed" value="true" />
@@ -121,7 +110,15 @@
       <option name="project" value="LOCAL" />
       <updated>1782281760395</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1782288806597</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1782288806597</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -133,7 +130,7 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/test_konlpy_project$test2.coverage" NAME="test2 커버리지 결과" MODIFIED="1782284852090" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/test_konlpy_project$test3.coverage" NAME="test3 커버리지 결과" MODIFIED="1782287826567" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/test_konlpy_project$test3.coverage" NAME="test3 커버리지 결과" MODIFIED="1782288337611" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/test_konlpy_project$test1.coverage" NAME="test1 커버리지 결과" MODIFIED="1782283528565" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
