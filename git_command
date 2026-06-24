@@ -1,0 +1,14 @@
+# 파이참 프로젝트와 github 저장소 연결:
+git remote add origin https://github.com/sarastudy1009-svg/test_konlpy_project.git
+
+# 연결 확인:
+git remote -v
+# 표시되면 연결 성공임
+origin  https://github.com/sarastudy1009-svg/test_konlpy_project.git (fetch)
+origin  https://github.com/sarastudy1009-svg/test_konlpy_project.git (push)
+
+# 브렌치(branch) 확인
+git branch
+
+# .gitignore 작성 : git 에 업로드하면 안되는 파일들 설정
+
